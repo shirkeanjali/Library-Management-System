@@ -1,0 +1,60 @@
+101,The Great Gatsby,F. Scott Fitzgerald
+102,1984,George Orwell
+103,To Kill a Mockingbird,Harper Lee
+104,Pride and Prejudice,Jane Austen
+105,The Catcher in the Rye,J.D. Salinger
+106,Moby-Dick,Herman Melville
+107,War and Peace,Leo Tolstoy
+108,The Odyssey,Homer
+109,Crime and Punishment,Fyodor Dostoevsky
+110,The Brothers Karamazov,Fyodor Dostoevsky
+111,The Hobbit,J.R.R. Tolkien
+112,Harry Potter and the Sorcerer's Stone,J.K. Rowling
+113,The Lord of the Rings,J.R.R. Tolkien
+114,Catch-22,Joseph Heller
+115,Brave New World,Aldous Huxley
+116,The Alchemist,Paulo Coelho
+117,The Da Vinci Code,Dan Brown
+118,Fahrenheit 451,Ray Bradbury
+119,Animal Farm,George Orwell
+120,The Shining,Stephen King
+121,The Picture of Dorian Gray,Oscar Wilde
+122,Dracula,Bram Stoker
+123,The Little Prince,Antoine de Saint-Exupéry
+124,The Old Man and the Sea,Ernest Hemingway
+125,The Chronicles of Narnia,C.S. Lewis
+126,The Handmaid's Tale,Margaret Atwood
+127,The Outsiders,S.E. Hinton
+128,The Fault in Our Stars,John Green
+129,The Hunger Games,Suzanne Collins
+130,The Book Thief,Markus Zusak
+131,The Kite Runner,Khaled Hosseini
+132,The Catcher in the Rye,J.D. Salinger
+133,The Secret Garden,Frances Hodgson Burnett
+134,The Road,Cormac McCarthy
+135,The Glass Castle,Jeannette Walls
+136,Slaughterhouse-Five,Kurt Vonnegut
+137,One Hundred Years of Solitude,Gabriel García Márquez
+138,The Girl on the Train,Paula Hawkins
+139,The Giver,Lois Lowry
+140,Little Women,Louisa May Alcott
+141,The Immortal Life of Henrietta Lacks,Rebecca Skloot
+142,The Hitchhiker's Guide to the Galaxy,Douglas Adams
+143,A Tale of Two Cities,Charles Dickens
+144,Wuthering Heights,Emily Brontë
+145,The Silence of the Lambs,Thomas Harris
+146,The Bell Jar,Sylvia Plath
+147,The Color Purple,Alice Walker
+148,The Outsiders,S.E. Hinton
+149,Gone with the Wind,Margaret Mitchell
+150,The Time Traveler's Wife,Audrey Niffenegger
+151,The Guide,R.K. Narayan
+152,Five Point Someone,Chetan Bhagat
+153,The God of Small Things,Arundhati Roy
+154,The Room on the Roof,Ruskin Bond
+155,Midnight’s Children,Salman Rushdie
+156,A Suitable Boy,Vikram Seth
+157,Gitanjali,Rabindranath Tagore
+158,The Inheritance of Loss,Kiran Desai
+159,Interpreter of Maladies,Jhumpa Lahiri
+160,Mahabharat,Ganguly
